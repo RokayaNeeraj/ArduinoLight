@@ -8,7 +8,7 @@
 
 **LED Bulb Connection:**
 - Connect anode to pin 9.
-- Connect the cathode to one end of the resistor and then to the GND of Arduino.
+- Connect the cathode to one end of the resistor and then other end to the GND of Arduino.
 
 **Photoresistor Connection:**
 - Connect LDR1:VCC to 5V of Arduino.
